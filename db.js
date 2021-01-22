@@ -22,7 +22,3 @@ const port= 3000;
 app.listen(port, () => {
     console.log("helloworld2");
 });
-
-// const Sequelize = require('sequelize');
-// const db = new Sequelize()
-
